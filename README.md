@@ -1,16 +1,14 @@
 ![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 <h1 align="center">Greetings 🙋‍♂️, I'm Shahzaib Memon</h1>
 <h3 align="center">
-  A diligent front-end developer from Pakistan, working tirelessly to create
-  something magnificent ⭐.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=7FC6FB&width=435&lines=A+diligent+front-end+developer+from+Pakistan.;Working+tirelessly+to+create+something+magnificent%E2%AD%90." alt="Typing SVG" /></a>
 </h3>
-
 <img align="right" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47fc1lp8xfn2gaurf89av6fcgs4jintza6zevcjtm4&rid=giphy.gif&ct=g" alt="coding">
 
 - 🌱 I’m currently learning **React** 
 - 💬 Ask me about **Front-end development** 
 - 📫 How to reach me **shahzaib943@gmail.com**
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahzaib-d-memon&label=Profile%20views&color=0e75b6&style=flat" alt="shahzaib-d-memon" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/shahzaib-memon" target="blank"
