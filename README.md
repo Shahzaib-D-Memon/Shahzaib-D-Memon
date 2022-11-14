@@ -6,7 +6,7 @@
 <img align="right" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47fc1lp8xfn2gaurf89av6fcgs4jintza6zevcjtm4&rid=giphy.gif&ct=g" alt="coding">
 
 - 🌱 I’m currently learning **React** 
-- 💬 Ask me about **Front-end development** 
+- 💬 Ask me about **Front-End Development** 
 - 📫 How to reach me **shahzaib943@gmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahzaib-d-memon&label=Profile%20views&color=0e75b6&style=flat" alt="shahzaib-d-memon" /> </p>
 <h3 align="left">Connect with me:</h3>
