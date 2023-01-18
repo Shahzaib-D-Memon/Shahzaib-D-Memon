@@ -112,7 +112,7 @@
 - [MTA: Introduction to Programming Using Java - Certified 2021](https://www.credly.com/earner/earned/badge/5f8bbd83-c9cd-4c94-886b-1a959b3a4356)
 - [MTA: Networking Fundamentals - Certified 2021](https://www.credly.com/earner/earned/badge/e119ecb8-00ec-44a6-ab19-52453696644c)
 - [Microsoft Certified: Azure Data Fundamentals](https://www.credly.com/earner/earned/badge/7ee69cc6-8fc7-4036-a4f9-96d99fd27cda)
-- See all my Certifications here [Credly](https://www.credly.com/users/shahzaib-memon101/badges)
+- See all my Certifications here on: [Credly](https://www.credly.com/users/shahzaib-memon101/badges)
 
 <p align="left">
   <img src="https://images.credly.com/size/340x340/images/fd6bb2af-2f05-4d9b-a23e-39f8e309a82d/image.png" width="125" height="125">
