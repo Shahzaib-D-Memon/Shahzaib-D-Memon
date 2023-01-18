@@ -70,10 +70,8 @@
     <kbd>OS</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
   </kbd>
-  <br><br>
   <kbd>
     <kbd>VM</kbd>
     <br>
