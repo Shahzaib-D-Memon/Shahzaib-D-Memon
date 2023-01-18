@@ -41,6 +41,8 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   </kbd>
+   <br><br>
+   
    <kbd>
     <kbd>Adobe Tools</kbd>
     <br>
@@ -49,10 +51,6 @@
     <img width="30px" src="https://img.icons8.com/color/42/000000/adobe-illustrator.png" />
     <img width="30px" src="https://img.icons8.com/color/42/000000/adobe-premiere-pro--v1.png" />
   </kbd>
-  <br><br>
- 
- 
-    
   <kbd>
     <kbd>Others</kbd>
     <br>
