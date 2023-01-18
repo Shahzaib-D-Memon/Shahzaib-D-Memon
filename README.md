@@ -114,6 +114,7 @@
 - [Microsoft Certified: Azure Data Fundamentals](https://www.credly.com/earner/earned/badge/7ee69cc6-8fc7-4036-a4f9-96d99fd27cda)
 - [Microsoft Certified: Dynamics 365 Fundamentals](https://www.credly.com/earner/earned/badge/ab0cb349-689a-4b85-ba6a-cf3d831f8f5e)
 - [Microsoft Certified Trainer 2022-2023](https://www.credly.com/earner/earned/badge/b731ba0d-51c4-49f7-95f8-b48e73c9c184)
+- [Microsoft Certified Trainer 2021-2022](https://www.credly.com/earner/earned/badge/d0233707-f10b-402f-8b9b-8c85655a2b6c)
 - See all my Certifications here on: [Credly](https://www.credly.com/users/shahzaib-memon101/badges)
 
 <p align="left">
@@ -140,6 +141,7 @@
    <img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="125" height="125">
    <img src="https://images.credly.com/size/340x340/images/ff67d2c3-ad8f-4766-b795-fc34a8461c94/dynamics365-fundamentals-600x600.png" width="125" height="125">
    <img src="https://images.credly.com/size/340x340/images/bb4156e4-c2e1-4399-b03c-af6feb7a6cc4/image.png" width="125" height="125">
+   <img src="https://images.credly.com/size/340x340/images/a6ea4416-4f34-4a85-bc24-eb3fe32fd241/MCT-Microsoft_Certified_Trainer-600x600.png" width="125" height="125">
 </p>
 
 ## <img src="https://img.icons8.com/nolan/26/github.png"/> Github Stats
