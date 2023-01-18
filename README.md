@@ -7,8 +7,12 @@
 
 <a href="https://app.daily.dev/Shahzaib_Memon"><img align="right" src="https://api.daily.dev/devcards/b8c58147aaff41ac9ce2f29eea9ef670.png?r=ozz" width="400" alt="Shahzaib Memon's Dev Card"/></a>
 
+> I'm a Computer Systems Engineer from Pakistan.
+
 - 🌱 I’m currently learning **React**
-- 💬 Ask me about **Front-End Development**
+- 💬 Ask me about **Anything**, I am happy to help :smile:
+- 🧗 I try to: **Go beyond and push the bounds**
+- ⚡ I **Love* connecting with different people :raised_hands:
 - 📫 How to reach me **shahzaib943@gmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahzaib-d-memon&label=Profile%20views&color=0e75b6&style=flat" alt="shahzaib-d-memon" /> </p>
 
