@@ -12,8 +12,8 @@
 - 🌱 I’m currently learning **React**
 - 💬 Ask me about **Anything**, I am happy to help :smile:
 - 🧗 I try to: **Go beyond and push the bounds**
-- ⚡ I **Love* connecting with different people :raised_hands:
-- 📫 How to reach me **shahzaib943@gmail.com**
+- ⚡ I **Love** connecting with different people :raised_hands:
+- 📫 How to reach me: **shahzaib943@gmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahzaib-d-memon&label=Profile%20views&color=0e75b6&style=flat" alt="shahzaib-d-memon" /> </p>
 
 ## <img src="https://img.icons8.com/nolan/25/computer.png"/> Technologies
