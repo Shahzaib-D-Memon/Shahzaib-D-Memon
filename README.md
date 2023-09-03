@@ -158,6 +158,8 @@
 </div>
 
 <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Shahzaib-D-Memon&theme=react-dark&hide_border=true" /></a>
+
+[![Shahzaib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shahzaib-D-Memon&theme=tokyo-night)](https://github.com/Shahzaib-D-Memon/github-readme-activity-graph)
+
 
 [![@shahzaibdmemon's Holopin board](https://holopin.me/shahzaibdmemon)](https://holopin.io/@shahzaibdmemon)
