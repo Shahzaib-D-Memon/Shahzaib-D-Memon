@@ -117,6 +117,7 @@
 - [Microsoft Certified: Dynamics 365 Fundamentals](https://www.credly.com/earner/earned/badge/ab0cb349-689a-4b85-ba6a-cf3d831f8f5e)
 - [Microsoft Certified Trainer 2022-2023](https://www.credly.com/earner/earned/badge/b731ba0d-51c4-49f7-95f8-b48e73c9c184)
 - [Microsoft Certified Trainer 2021-2022](https://www.credly.com/earner/earned/badge/d0233707-f10b-402f-8b9b-8c85655a2b6c)
+- [CISCO: Introduction to CyberSecurity](https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)
 - See all my Certifications here on: [Credly](https://www.credly.com/users/shahzaib-memon101/badges)
 
 <p align="left">
@@ -144,6 +145,13 @@
    <img src="https://images.credly.com/size/340x340/images/ff67d2c3-ad8f-4766-b795-fc34a8461c94/dynamics365-fundamentals-600x600.png" width="125" height="125">
    <img src="https://images.credly.com/size/340x340/images/bb4156e4-c2e1-4399-b03c-af6feb7a6cc4/image.png" width="125" height="125">
    <img src="https://images.credly.com/size/340x340/images/a6ea4416-4f34-4a85-bc24-eb3fe32fd241/MCT-Microsoft_Certified_Trainer-600x600.png" width="125" height="125">
+   <img src="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" width="125" height="125">
+   <img src="https://images.credly.com/size/220x220/images/dcdf1a3c-2594-4f4c-a33a-050b4bca58b5/image.png" width="125" height="125">
+   <img src="https://images.credly.com/size/220x220/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="125" height="125">
+   <img src="https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="125" height="125">
+   <img src="https://images.credly.com/size/220x220/images/a4dd891f-7bf5-4938-8241-50dc81e8cc00/image.png" width="125" height="125">
+   <img src="https://images.credly.com/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" width="125" height="125">
+   
 </p>
 
 ## <img src="https://img.icons8.com/nolan/26/github.png"/> Github Stats
