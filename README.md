@@ -117,7 +117,8 @@
 - [Microsoft Certified: Dynamics 365 Fundamentals](https://www.credly.com/earner/earned/badge/ab0cb349-689a-4b85-ba6a-cf3d831f8f5e)
 - [Microsoft Certified Trainer 2022-2023](https://www.credly.com/earner/earned/badge/b731ba0d-51c4-49f7-95f8-b48e73c9c184)
 - [Microsoft Certified Trainer 2021-2022](https://www.credly.com/earner/earned/badge/d0233707-f10b-402f-8b9b-8c85655a2b6c)
-- [CISCO: Introduction to CyberSecurity](https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)
+- [CISCO: Introduction to CyberSecurity](https://www.credly.com/badges/8efe1c8d-1aad-441d-aa35-6db79a47925a)
+- [CISCO: Networking Basics](https://www.credly.com/badges/9ad0c920-54fa-48d9-9cb9-0a88ec8a4970)
 - See all my Certifications here on: [Credly](https://www.credly.com/users/shahzaib-memon101/badges)
 
 <p align="left">
